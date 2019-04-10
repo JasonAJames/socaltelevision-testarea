@@ -1,0 +1,160 @@
+.top {
+    padding-top: 10%;
+}
+
+#currentweather-nav-item {
+    
+    margin-top: -5px;
+    margin-bottom: -5px;
+
+}
+/* .container {
+    height: 60px;
+} */
+
+.nav-link.btn-danger {
+    border-radius: 5px;
+}
+
+.navbar-brand > img {
+    display: inline-block;
+    margin-top: -25px;
+}
+
+@media only screen and (min-width: 400px) {
+    .videoContainer {
+        margin-left: 1%;
+        padding-right: 2%;
+    }
+    .video {
+        border: none;
+        width: 420px;
+        height: 237px;
+        border-radius: 25px;
+        box-shadow:1px 1px 45px lightgray;
+        margin-left: 5%;
+    }
+
+}
+
+@media screen and (min-width: 640px) {
+    #videoContainer {
+        padding-left: 15%;
+        padding-right: 2%;
+    
+    }
+    .video {
+        border: none;
+        width: 620px;
+        height: 350px;
+        border-radius: 25px;
+        box-shadow:1px 1px 45px lightgray;
+        margin-left: 25%;
+    }
+
+}
+
+@media screen and (min-width: 650px) {
+    #videoContainer {
+        padding-left: 15%;
+        padding-right: 2%;
+    
+    }
+    .video {
+        border: none;
+        width: 620px;
+        height: 350px;
+        border-radius: 25px;
+        box-shadow:1px 1px 45px lightgray;
+        margin-left: 25%;
+    }
+
+}
+
+@media screen and (min-width: 650px) {
+    #videoContainer {
+        padding-left: 15%;
+        padding-right: 2%;
+    
+    }
+    .video {
+        border: none;
+        width: 620px;
+        height: 350px;
+        border-radius: 25px;
+        box-shadow:1px 1px 45px lightgray;
+        margin-left: 25%;
+    }
+
+}
+
+@media screen and (min-width: 767px) {
+    #videoContainer {
+        padding-left: 15%;
+        padding-right: 2%;
+    
+    }
+    .video {
+        border: none;
+        width: 620px;
+        height: 350px;
+        border-radius: 25px;
+        box-shadow:1px 1px 45px lightgray;
+        margin-left: 25%;
+    }
+
+}
+
+@media screen and (min-width: 800px) {
+    #videoContainer {
+        padding-left: 15%;
+        padding-right: 2%;
+    
+    }
+    .video {
+        border: none;
+        width: 620px;
+        height: 350px;
+        border-radius: 25px;
+        box-shadow:1px 1px 45px lightgray;
+        margin-left: 25%;
+    }
+
+}
+
+@media screen and (min-width: 991px) {
+    #videoContainer {
+        padding-left: 15%;
+        padding-right: 2%;
+    
+    }
+    .video {
+        border: none;
+        width: 620px;
+        height: 350px;
+        border-radius: 25px;
+        box-shadow:1px 1px 45px lightgray;
+        margin-left: 25%;
+    }
+
+}
+
+/* uncomment class below when mobile app is launched */
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+/* @media only screen and (max-width: 700px) {
+    .navbar.navbar-expand-lg.fixed-top.navbar-dark.bg-dark, .ui.inverted.vertical.footer.segment {
+        display: none;
+    }
+    .weatherwidget {
+        display: none;
+      }
+
+}  */
+
+
+#videoContainer {
+    padding-left: 25%;
+
+}
+

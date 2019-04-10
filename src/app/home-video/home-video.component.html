@@ -1,0 +1,43 @@
+<figure id="video_player">
+    <div id="video_container">
+    <video controls poster="assets/images/video_thumbs/Cajaclco-laberynth.png" playsinline id="myVideo" (ended)="videoEnd()">
+      <source src="https://s3-us-west-2.amazonaws.com/jppmsolutions/Videos/CajalcoLabyrinth_CoronaCalifornia.mp4.mp4" type="video/mp4">
+      <source src="https://s3-us-west-2.amazonaws.com/jppmsolutions/Videos/CajalcoLabyrinth_CoronaCalifornia.webmhd.webm" type="video/webm">
+  </video>
+  </div>
+  <figcaption>
+    <a href="http://thenewcode.com/assets/videos/glacier.mp4" class="currentvid">
+      <img src="http://thenewcode.com/assets/images/vid-glacier.jpg" alt="Athabasca Glacier">
+    </a>
+    <a href="http://thenewcode.com/assets/videos/lake.mp4">
+      <img src="http://thenewcode.com/assets/images/vid-lake.jpg" alt="Athabasca Lake">
+    </a>
+    <a href="http://thenewcode.com/assets/videos/mountain.mp4">
+      <img src="http://thenewcode.com/assets/images/vid-mountain.jpg" alt="Mountain">
+    </a>
+  </figcaption>
+  </figure>
+  <div id="share">
+    <h5>Share this on:</h5>
+        <!-- facebook -->
+        <a class="facebook" href="https://www.facebook.com/share.php?u={{url}}&title={{title}}&placeholder={{title}}" target="blank"><i class="fab fa-facebook-f"></i></a>
+      
+        <!-- twitter -->
+        <a class="twitter" href="https://twitter.com/intent/tweet?status=Come visit or Check Out this+{{title}}+Click on '+{{header_link}}+' on+{{url}}" target="blank"><i class="fab fa-twitter"></i></a>
+      
+       <!-- Reddit (url, title) -->
+        <a href="http://reddit.com/submit?url={{url}}&title={{title}}" target="_blank" class="share-btn reddit">
+          <i class="fab fa-reddit"></i>
+        </a>
+  
+        <!-- LinkedIn -->
+        <a href="http://www.linkedin.com/shareArticle?url={{url}}&title={{title}}&summary={{summary}}&source={{source_url}}" target="_blank" class="share-btn linkedin">
+          <i class="fab fa-linkedin"></i>
+        </a>
+  
+        <!-- Email -->
+        <a href="mailto:?subject={{subject}}&body={{body}}" target="_blank" class="share-btn email">
+          <i class="fa fa-envelope"></i>
+        </a>
+  
+      </div>
