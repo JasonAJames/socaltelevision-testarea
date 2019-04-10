@@ -84,7 +84,7 @@ AboutComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], AboutComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/about.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/about.component.js.map
 
 /***/ }),
 
@@ -155,7 +155,7 @@ AdvertiseCommercialComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], AdvertiseCommercialComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/advertise-commercial.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/advertise-commercial.component.js.map
 
 /***/ }),
 
@@ -230,7 +230,7 @@ AmazonProductReviewsComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], AmazonProductReviewsComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/amazon-product-reviews.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/amazon-product-reviews.component.js.map
 
 /***/ }),
 
@@ -291,7 +291,7 @@ CameraVideoCamcorderAccessoriesComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], CameraVideoCamcorderAccessoriesComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/camera-video-camcorder-accessories.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/camera-video-camcorder-accessories.component.js.map
 
 /***/ }),
 
@@ -352,7 +352,7 @@ CamerasVideoCamcordersComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], CamerasVideoCamcordersComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/cameras-video-camcorders.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/cameras-video-camcorders.component.js.map
 
 /***/ }),
 
@@ -413,7 +413,7 @@ ComputersLaptopsPeripheralsComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], ComputersLaptopsPeripheralsComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/computers-laptops-peripherals.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/computers-laptops-peripherals.component.js.map
 
 /***/ }),
 
@@ -486,7 +486,7 @@ ElectronicsHomeAccessoriesComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], ElectronicsHomeAccessoriesComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/electronics-home-accessories.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/electronics-home-accessories.component.js.map
 
 /***/ }),
 
@@ -547,7 +547,7 @@ ElectronicsHomeAudioComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], ElectronicsHomeAudioComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/electronics-home-audio.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/electronics-home-audio.component.js.map
 
 /***/ }),
 
@@ -608,7 +608,7 @@ HomeImprovementComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], HomeImprovementComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/home-improvement.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/home-improvement.component.js.map
 
 /***/ }),
 
@@ -669,7 +669,7 @@ MobilePhoneAccessoriesComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], MobilePhoneAccessoriesComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/mobile-phone-accessories.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/mobile-phone-accessories.component.js.map
 
 /***/ }),
 
@@ -730,7 +730,7 @@ MobilePhonesComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], MobilePhonesComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/mobile-phones.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/mobile-phones.component.js.map
 
 /***/ }),
 
@@ -742,7 +742,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, ".top {\n    padding-top: 10%;\n}\n\n#currentweather-nav-item {\n    margin-top: -23%;\n}\n\n/* .container {\n    height: 60px;\n} */\n\n.nav-link.btn-danger {\n    border-radius: 5px;\n}\n\n.navbar-brand > img {\n    display: inline-block;\n    margin-top: -25px;\n}\n\n@media only screen and (min-width: 400px) {\n    .videoContainer {\n        margin-left: 1%;\n        padding-right: 2%;\n    }\n    .video {\n        border: none;\n        width: 420px;\n        height: 237px;\n        border-radius: 25px;\n        -webkit-box-shadow:1px 1px 45px lightgray;\n                box-shadow:1px 1px 45px lightgray;\n        margin-left: 5%;\n    }\n\n    #currentweather-nav-item {\n        margin-top: -90%;\n        margin-left: -22%;\n    }\n}\n\n@media screen and (min-width: 640px) {\n    #videoContainer {\n        padding-left: 15%;\n        padding-right: 2%;\n    \n    }\n    .video {\n        border: none;\n        width: 620px;\n        height: 350px;\n        border-radius: 25px;\n        -webkit-box-shadow:1px 1px 45px lightgray;\n                box-shadow:1px 1px 45px lightgray;\n        margin-left: 25%;\n    }\n    #currentweather-nav-item {\n        margin-top: -63%;\n        margin-left: -20%;\n    }\n}\n\n@media screen and (min-width: 650px) {\n    #videoContainer {\n        padding-left: 15%;\n        padding-right: 2%;\n    \n    }\n    .video {\n        border: none;\n        width: 620px;\n        height: 350px;\n        border-radius: 25px;\n        -webkit-box-shadow:1px 1px 45px lightgray;\n                box-shadow:1px 1px 45px lightgray;\n        margin-left: 25%;\n    }\n    #currentweather-nav-item {\n        margin-top: -63%;\n        margin-left: -20%;\n    }\n}\n\n@media screen and (min-width: 650px) {\n    #videoContainer {\n        padding-left: 15%;\n        padding-right: 2%;\n    \n    }\n    .video {\n        border: none;\n        width: 620px;\n        height: 350px;\n        border-radius: 25px;\n        -webkit-box-shadow:1px 1px 45px lightgray;\n                box-shadow:1px 1px 45px lightgray;\n        margin-left: 25%;\n    }\n    #currentweather-nav-item {\n        margin-top: -63%;\n        margin-left: -20%;\n    }\n}\n\n@media screen and (min-width: 767px) {\n    #videoContainer {\n        padding-left: 15%;\n        padding-right: 2%;\n    \n    }\n    .video {\n        border: none;\n        width: 620px;\n        height: 350px;\n        border-radius: 25px;\n        -webkit-box-shadow:1px 1px 45px lightgray;\n                box-shadow:1px 1px 45px lightgray;\n        margin-left: 25%;\n    }\n    #currentweather-nav-item {\n        margin-top: -63%;\n        margin-left: -25%;\n    }\n}\n\n@media screen and (min-width: 800px) {\n    #videoContainer {\n        padding-left: 15%;\n        padding-right: 2%;\n    \n    }\n    .video {\n        border: none;\n        width: 620px;\n        height: 350px;\n        border-radius: 25px;\n        -webkit-box-shadow:1px 1px 45px lightgray;\n                box-shadow:1px 1px 45px lightgray;\n        margin-left: 25%;\n    }\n    #currentweather-nav-item {\n        margin-top: -63%;\n        margin-left: -50%;\n    }\n}\n\n@media screen and (min-width: 991px) {\n    #videoContainer {\n        padding-left: 15%;\n        padding-right: 2%;\n    \n    }\n    .video {\n        border: none;\n        width: 620px;\n        height: 350px;\n        border-radius: 25px;\n        -webkit-box-shadow:1px 1px 45px lightgray;\n                box-shadow:1px 1px 45px lightgray;\n        margin-left: 25%;\n    }\n    #currentweather-nav-item {\n        margin-top: -63%;\n        margin-left: -50%;\n    }\n}\n\n/* uncomment class below when mobile app is launched */\n\n/* Small devices (portrait tablets and large phones, 600px and up) */\n\n/* @media only screen and (max-width: 700px) {\n    .navbar.navbar-expand-lg.fixed-top.navbar-dark.bg-dark, .ui.inverted.vertical.footer.segment {\n        display: none;\n    }\n    .weatherwidget {\n        display: none;\n      }\n\n}  */\n\n#videoContainer {\n    padding-left: 25%;\n\n}\n\n", ""]);
+exports.push([module.i, ".top {\n    padding-top: 10%;\n}\n\n#currentweather-nav-item {\n    \n    margin-top: -5px;\n    margin-bottom: -5px;\n\n}\n\n/* .container {\n    height: 60px;\n} */\n\n.nav-link.btn-danger {\n    border-radius: 5px;\n}\n\n.navbar-brand > img {\n    display: inline-block;\n    margin-top: -25px;\n}\n\n@media only screen and (min-width: 400px) {\n    .videoContainer {\n        margin-left: 1%;\n        padding-right: 2%;\n    }\n    .video {\n        border: none;\n        width: 420px;\n        height: 237px;\n        border-radius: 25px;\n        -webkit-box-shadow:1px 1px 45px lightgray;\n                box-shadow:1px 1px 45px lightgray;\n        margin-left: 5%;\n    }\n\n}\n\n@media screen and (min-width: 640px) {\n    #videoContainer {\n        padding-left: 15%;\n        padding-right: 2%;\n    \n    }\n    .video {\n        border: none;\n        width: 620px;\n        height: 350px;\n        border-radius: 25px;\n        -webkit-box-shadow:1px 1px 45px lightgray;\n                box-shadow:1px 1px 45px lightgray;\n        margin-left: 25%;\n    }\n\n}\n\n@media screen and (min-width: 650px) {\n    #videoContainer {\n        padding-left: 15%;\n        padding-right: 2%;\n    \n    }\n    .video {\n        border: none;\n        width: 620px;\n        height: 350px;\n        border-radius: 25px;\n        -webkit-box-shadow:1px 1px 45px lightgray;\n                box-shadow:1px 1px 45px lightgray;\n        margin-left: 25%;\n    }\n\n}\n\n@media screen and (min-width: 650px) {\n    #videoContainer {\n        padding-left: 15%;\n        padding-right: 2%;\n    \n    }\n    .video {\n        border: none;\n        width: 620px;\n        height: 350px;\n        border-radius: 25px;\n        -webkit-box-shadow:1px 1px 45px lightgray;\n                box-shadow:1px 1px 45px lightgray;\n        margin-left: 25%;\n    }\n\n}\n\n@media screen and (min-width: 767px) {\n    #videoContainer {\n        padding-left: 15%;\n        padding-right: 2%;\n    \n    }\n    .video {\n        border: none;\n        width: 620px;\n        height: 350px;\n        border-radius: 25px;\n        -webkit-box-shadow:1px 1px 45px lightgray;\n                box-shadow:1px 1px 45px lightgray;\n        margin-left: 25%;\n    }\n\n}\n\n@media screen and (min-width: 800px) {\n    #videoContainer {\n        padding-left: 15%;\n        padding-right: 2%;\n    \n    }\n    .video {\n        border: none;\n        width: 620px;\n        height: 350px;\n        border-radius: 25px;\n        -webkit-box-shadow:1px 1px 45px lightgray;\n                box-shadow:1px 1px 45px lightgray;\n        margin-left: 25%;\n    }\n\n}\n\n@media screen and (min-width: 991px) {\n    #videoContainer {\n        padding-left: 15%;\n        padding-right: 2%;\n    \n    }\n    .video {\n        border: none;\n        width: 620px;\n        height: 350px;\n        border-radius: 25px;\n        -webkit-box-shadow:1px 1px 45px lightgray;\n                box-shadow:1px 1px 45px lightgray;\n        margin-left: 25%;\n    }\n\n}\n\n/* uncomment class below when mobile app is launched */\n\n/* Small devices (portrait tablets and large phones, 600px and up) */\n\n/* @media only screen and (max-width: 700px) {\n    .navbar.navbar-expand-lg.fixed-top.navbar-dark.bg-dark, .ui.inverted.vertical.footer.segment {\n        display: none;\n    }\n    .weatherwidget {\n        display: none;\n      }\n\n}  */\n\n#videoContainer {\n    padding-left: 25%;\n\n}\n\n", ""]);
 
 // exports
 
@@ -755,7 +755,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/app.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<!-- FREE VERSION -->\n<div class=\"navbar navbar-expand-lg fixed-top navbar-dark bg-dark\">\n    <div class=\"container\">\n      <a routerLink=\"home-video-0\" class=\"navbar-brand\">\n        <span class=\"HeaderLogo\"></span>\n        <img src=\"https://s3-us-west-2.amazonaws.com/socaltelevision/logo_16X9.png\" width=\"111px\" height=\"65px\"/> \n         SoCal Television</a>\n            <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarResponsive\" aria-controls=\"navbarResponsive\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n              <span class=\"navbar-toggler-icon\"></span>\n            </button>\n      <div class=\"collapse navbar-collapse\" id=\"navbarResponsive\">\n\n        <ul class=\"navbar-nav\">\n          <li class=\"nav-item\">\n            <a class=\"nav-link\" routerLink=\"about\">About</a>\n          </li>\n          <li class=\"nav-item\">\n            <a class=\"nav-link\" routerLink=\"stations-main\">TV Channels</a>\n          </li>\n          <li class=\"nav-item\">\n            <a class=\"nav-link btn-danger\" routerLink=\"live\">LIVE</a>\n          </li>\n          <!-- <li class=\"nav-item\">\n              <a class=\"nav-link btn-info\" routerLink=\"usopenofsurfing\">Vans US Open of Surfing LIVE</a>\n            </li> -->\n          <!-- <li class=\"nav-item\">\n              <a class=\"nav-link btn btn-info\" routerLink=\"independence-day\">Independence Day Celebrations LIVE</a>\n            </li> -->\n          <li class=\"nav-item\">\n              <a class=\"nav-link\" routerLink=\"live-traffic/sigalert\">TRAFFIC</a>\n            </li>\n            <!-- <li class=\"nav-item\">\n              <a class=\"nav-link\" routerLink=\"mission-inn-festival-of-lights\">Mission Inn Festival of Lights</a>\n            </li> -->\n            <!-- <li class=\"nav-item\">\n              <a class=\"nav-link\" routerLink=\"sbd-fest-2018\">SBD Fest</a>\n            </li> -->\n          <!-- <li class=\"nav-item\">\n              <a class=\"nav-link\" href=\"//worldtelevision.tv/#/breaking-news-1\" target=\"_blank\">BREAKING NEWS WORLD-WIDE</a>\n            </li> -->\n        </ul>\n\n        <ul class=\"nav navbar-nav ml-auto\">\n            <li class=\"nav-item dropdown\">\n                <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\n                  Extras...\n                </a>\n                <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\n                    <a class=\"dropdown-item\" routerLink=\"national-day/coffee-day\">National Day of...</a>\n                    <div class=\"dropdown-divider\"></div>\n                  <a class=\"dropdown-item\" routerLink=\"extras/daily-horoscope\">Daily Horoscopes</a>\n                  <div class=\"dropdown-divider\"></div>\n                  <a class=\"dropdown-item\" routerLink=\"extras/stock-market\">Stock Markets</a>\n                  <div class=\"dropdown-divider\"></div>\n                  <a class=\"dropdown-item\" routerLink=\"extras/twitter-feed\">Our Twitter Feed</a>\n                </div>\n              </li>\n          <li class=\"nav-item float-right\" id=\"currentweather-nav-item\">\n            \n            <iframe frameborder=\"0\" src=\"https://darksky.net/widget/default-small/33.8753,-117.5664/us12/en.js?width=100%&height=70&title=FullForecast&textColor=2911f7&bgColor=transparent&transparency=true&skyColor=undefined&fontFamily=Sans-Serif&customFont=&units=us\"></iframe>\n          </li>\n        </ul>\n\n      </div>\n    </div>\n  </div>\n\n\n  <div class=\"ui container\">\n    <!-- <p class=\"top\"></p> -->\n    <!-- Revive Adserver iFrame Tag - Generated with Revive Adserver v4.1.3 -->\n    <!-- <iframe id='a1db2c5d' name='a1db2c5d' src='https://appandwebdevelopers.com/website-design-app-development/adserver/www/delivery/afr.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='768' height='90'><a href='https://appandwebdevelopers.com/website-design-app-development/adserver/www/delivery/ck.php?n=a99a811b&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='https://appandwebdevelopers.com/website-design-app-development/adserver/www/delivery/avw.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a99a811b' border='0' alt='' class='img-responsive' /></a></iframe> -->\n\n   <router-outlet></router-outlet>\n    <!-- <app-hero-form></app-hero-form> -->\n  </div>\n\n  <div class=\"ui inverted vertical footer segment\">\n      <div class=\"ui container\">\n        <div class=\"ui stackable inverted divided equal height stackable grid\">\n          <div class=\"three wide column\">\n            <h4 class=\"ui inverted header\">About</h4>\n            <div class=\"ui inverted link list\">\n              <a routerLink=\"about\" class=\"item\">About</a>\n              <a routerLink=\"stations-main\" class=\"item\">TV Channels</a>\n              <a routerLink=\"show-archives\" class=\"item\">Show Archives</a>\n              <a routerLink=\"local-reviews\" class=\"item\">SoCal Reviews</a>\n            </div>\n          </div>\n          <div class=\"three wide column\">\n            <h4 class=\"ui inverted header\">Services</h4>\n            <div class=\"ui inverted link list\">\n              <a routerLink=\"live\" class=\"item\">WATCH LIVE</a>\n              <a routerLink=\"social\" class=\"item\">SoCal Community Connection</a>\n              <a routerLink=\"contact\" class=\"item\">Advertise / Showcase your Event</a>\n              <a routerLink=\"contact\" class=\"item\">Contact Us</a>\n            </div>\n          </div>\n          <div class=\"seven wide column\">\n            <h4 class=\"ui inverted header\"></h4>\n            <p></p>\n            <p style=\"text-align:center;\" id=\"copyright\">Find out what's going on in your area, LIKE - FOLLOW - SHARE @SoCalTelevision on <a href=\"https://www.facebook.com/SoCalTelevision/\" target=\"_blank\">Facebook</a>, <a href=\"https://www.instagram.com/SoCalTelevision/\" target=\"_blank\">Instagram</a>, &amp; <a href=\"https://www.twitter.com/SoCalTelevision/\" target=\"_blank\">Twitter!</a><br><br>© <span id=\"copyrightDate\"></span> The Inland Empire Television Network - SoCalTelevision<br> a subsidiary of <a href=\"http://www.jppmsolutions.com\" target=\"_blank\">James Programming, Printing, &amp; Media Solutions</a>.<br><br>Content may not be replicated, duplicated, or rebroadcasted in any way, both in part or full, without expressed written consent from the Inland Empire Television Network, James Programming, Printing &amp; Media Solutions, or its subsidiary's - All Rights Reserved.<br/>Weather information based on data supplied by <a href=\"http://noaa.gov\" target=\"_blank\">NOAA.gov</a></p>\n            <script>\n              var d = new Date();\n              document.getElementById(\"copyrightDate\").innerHTML = d.getFullYear();\n            </script> \n          </div>\n        </div>\n      </div>\n    </div>"
+module.exports = "<!-- FREE VERSION -->\n<div class=\"navbar navbar-expand-lg fixed-top navbar-dark bg-dark\">\n    <div class=\"container\">\n      <a routerLink=\"home-video-0\" class=\"navbar-brand\">\n        <span class=\"HeaderLogo\"></span>\n        <img src=\"https://s3-us-west-2.amazonaws.com/socaltelevision/logo_16X9.png\" width=\"111px\" height=\"65px\"/> \n         SoCal Television</a>\n            <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarResponsive\" aria-controls=\"navbarResponsive\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n              <span class=\"navbar-toggler-icon\"></span>\n            </button>\n      <div class=\"collapse navbar-collapse\" id=\"navbarResponsive\">\n\n        <ul class=\"navbar-nav\">\n          <li class=\"nav-item\">\n            <a class=\"nav-link\" routerLink=\"about\">About</a>\n          </li>\n          <li class=\"nav-item\">\n            <a class=\"nav-link\" routerLink=\"stations-main\">TV Channels</a>\n          </li>\n          <li class=\"nav-item\">\n            <a class=\"nav-link btn-danger\" routerLink=\"live\">LIVE</a>\n          </li>\n          <!-- <li class=\"nav-item\">\n              <a class=\"nav-link btn-info\" routerLink=\"usopenofsurfing\">Vans US Open of Surfing LIVE</a>\n            </li> -->\n          <!-- <li class=\"nav-item\">\n              <a class=\"nav-link btn btn-info\" routerLink=\"independence-day\">Independence Day Celebrations LIVE</a>\n            </li> -->\n          <li class=\"nav-item\">\n              <a class=\"nav-link\" routerLink=\"live-traffic/sigalert\">TRAFFIC</a>\n            </li>\n            <!-- <li class=\"nav-item\">\n              <a class=\"nav-link\" routerLink=\"mission-inn-festival-of-lights\">Mission Inn Festival of Lights</a>\n            </li> -->\n            <!-- <li class=\"nav-item\">\n              <a class=\"nav-link\" routerLink=\"sbd-fest-2018\">SBD Fest</a>\n            </li> -->\n          <!-- <li class=\"nav-item\">\n              <a class=\"nav-link\" href=\"//worldtelevision.tv/#/breaking-news-1\" target=\"_blank\">BREAKING NEWS WORLD-WIDE</a>\n            </li> -->\n        </ul>\n\n        <ul class=\"nav navbar-nav ml-auto\">\n            <li class=\"nav-item dropdown\">\n                <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbarDropdown\" role=\"button\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\n                  Extras...\n                </a>\n                <div class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">\n                    <a class=\"dropdown-item\" routerLink=\"national-day/coffee-day\">National Day of...</a>\n                    <div class=\"dropdown-divider\"></div>\n                  <a class=\"dropdown-item\" routerLink=\"extras/daily-horoscope\">Daily Horoscopes</a>\n                  <div class=\"dropdown-divider\"></div>\n                  <a class=\"dropdown-item\" routerLink=\"extras/stock-market\">Stock Markets</a>\n                  <div class=\"dropdown-divider\"></div>\n                  <a class=\"dropdown-item\" routerLink=\"extras/twitter-feed\">Our Twitter Feed</a>\n                </div>\n              </li>\n            </ul>\n            <ul class=\"nav navbar-nav ml-auto float-right\" id=\"currentweather-nav-item\">\n              <li class=\"nav-item\">\n                  <img src=\"https://www.theweather.com/wimages/foto6b87687271d457d81cfea51d42566594.png\">\n                <!-- <iframe frameborder=\"0\" src=\"https://darksky.net/widget/default-small/33.8753,-117.5664/us12/en.js?width=100%&height=70&title=FullForecast&textColor=2911f7&bgColor=transparent&transparency=true&skyColor=undefined&fontFamily=Sans-Serif&customFont=&units=us\"></iframe> -->\n            </li>\n          </ul>\n\n      </div>\n    </div>\n  </div>\n\n\n  <div class=\"ui container\">\n    <!-- <p class=\"top\"></p> -->\n    <!-- Revive Adserver iFrame Tag - Generated with Revive Adserver v4.1.3 -->\n    <!-- <iframe id='a1db2c5d' name='a1db2c5d' src='https://appandwebdevelopers.com/website-design-app-development/adserver/www/delivery/afr.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='768' height='90'><a href='https://appandwebdevelopers.com/website-design-app-development/adserver/www/delivery/ck.php?n=a99a811b&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='https://appandwebdevelopers.com/website-design-app-development/adserver/www/delivery/avw.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a99a811b' border='0' alt='' class='img-responsive' /></a></iframe> -->\n\n   <router-outlet></router-outlet>\n    <!-- <app-hero-form></app-hero-form> -->\n  </div>\n\n  <div class=\"ui inverted vertical footer segment\">\n      <div class=\"ui container\">\n        <div class=\"ui stackable inverted divided equal height stackable grid\">\n          <div class=\"three wide column\">\n            <h4 class=\"ui inverted header\">About</h4>\n            <div class=\"ui inverted link list\">\n              <a routerLink=\"about\" class=\"item\">About</a>\n              <a routerLink=\"stations-main\" class=\"item\">TV Channels</a>\n              <a routerLink=\"show-archives\" class=\"item\">Show Archives</a>\n              <a routerLink=\"local-reviews\" class=\"item\">SoCal Reviews</a>\n            </div>\n          </div>\n          <div class=\"three wide column\">\n            <h4 class=\"ui inverted header\">Services</h4>\n            <div class=\"ui inverted link list\">\n              <a routerLink=\"live\" class=\"item\">WATCH LIVE</a>\n              <a routerLink=\"social\" class=\"item\">SoCal Community Connection</a>\n              <a routerLink=\"contact\" class=\"item\">Advertise / Showcase your Event</a>\n              <a routerLink=\"contact\" class=\"item\">Contact Us</a>\n            </div>\n          </div>\n          <div class=\"seven wide column\">\n            <h4 class=\"ui inverted header\"></h4>\n            <p></p>\n            <p style=\"text-align:center;\" id=\"copyright\">Find out what's going on in your area, LIKE - FOLLOW - SHARE @SoCalTelevision on <a href=\"https://www.facebook.com/SoCalTelevision/\" target=\"_blank\">Facebook</a>, <a href=\"https://www.instagram.com/SoCalTelevision/\" target=\"_blank\">Instagram</a>, &amp; <a href=\"https://www.twitter.com/SoCalTelevision/\" target=\"_blank\">Twitter!</a><br><br>© <span id=\"copyrightDate\"></span> The Inland Empire Television Network - SoCalTelevision<br> a subsidiary of <a href=\"http://www.jppmsolutions.com\" target=\"_blank\">James Programming, Printing, &amp; Media Solutions</a>.<br><br>Content may not be replicated, duplicated, or rebroadcasted in any way, both in part or full, without expressed written consent from the Inland Empire Television Network, James Programming, Printing &amp; Media Solutions, or its subsidiary's - All Rights Reserved.<br/>Weather information based on data supplied by <a href=\"http://noaa.gov\" target=\"_blank\">NOAA.gov</a></p>\n            <script>\n              var d = new Date();\n              document.getElementById(\"copyrightDate\").innerHTML = d.getFullYear();\n            </script> \n          </div>\n        </div>\n      </div>\n    </div>"
 
 /***/ }),
 
@@ -786,7 +786,7 @@ AppComponent = __decorate([
     })
 ], AppComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/app.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/app.component.js.map
 
 /***/ }),
 
@@ -873,12 +873,14 @@ AppComponent = __decorate([
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_75__extras_twitter_feed_twitter_feed_component__ = __webpack_require__("../../../../../src/app/extras/twitter-feed/twitter-feed.component.ts");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_76__weather_weather_component__ = __webpack_require__("../../../../../src/app/weather/weather.component.ts");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_77__components_social_share_icons_social_share_icons_component__ = __webpack_require__("../../../../../src/app/components/social-share-icons/social-share-icons.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_78__nit_wit_ridge_nit_wit_ridge_component__ = __webpack_require__("../../../../../src/app/nit-wit-ridge/nit-wit-ridge.component.ts");
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
+
 
 
 
@@ -1036,7 +1038,8 @@ AppModule = __decorate([
             __WEBPACK_IMPORTED_MODULE_74__amazon_product_reviews_home_improvement_home_improvement_component__["a" /* HomeImprovementComponent */],
             __WEBPACK_IMPORTED_MODULE_75__extras_twitter_feed_twitter_feed_component__["a" /* TwitterFeedComponent */],
             __WEBPACK_IMPORTED_MODULE_76__weather_weather_component__["a" /* WeatherComponent */],
-            __WEBPACK_IMPORTED_MODULE_77__components_social_share_icons_social_share_icons_component__["a" /* SocialShareIconsComponent */]
+            __WEBPACK_IMPORTED_MODULE_77__components_social_share_icons_social_share_icons_component__["a" /* SocialShareIconsComponent */],
+            __WEBPACK_IMPORTED_MODULE_78__nit_wit_ridge_nit_wit_ridge_component__["a" /* NitWitRidgeComponent */]
         ],
         imports: [
             __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__["a" /* BrowserModule */],
@@ -1059,6 +1062,7 @@ AppModule = __decorate([
                 { path: 'mission-inn-festival-of-lights', component: __WEBPACK_IMPORTED_MODULE_61__mission_inn_festival_of_lights_mission_inn_festival_of_lights_component__["a" /* MissionInnFestivalOfLightsComponent */] },
                 { path: 'amazon-product-reviews', component: __WEBPACK_IMPORTED_MODULE_66__amazon_product_reviews_amazon_product_reviews_component__["a" /* AmazonProductReviewsComponent */] },
                 { path: 'amazon-product-reviews/electronics-home-accessories', component: __WEBPACK_IMPORTED_MODULE_73__amazon_product_reviews_electronics_home_accessories_electronics_home_accessories_component__["a" /* ElectronicsHomeAccessoriesComponent */] },
+                { path: "nit-wit-ridge", component: __WEBPACK_IMPORTED_MODULE_78__nit_wit_ridge_nit_wit_ridge_component__["a" /* NitWitRidgeComponent */] },
                 { path: 'news', component: __WEBPACK_IMPORTED_MODULE_47__news_news_component__["a" /* NewsComponent */] },
                 { path: 'live', component: __WEBPACK_IMPORTED_MODULE_10__stations_main_live_live_component__["a" /* LiveComponent */] },
                 { path: 'live-2', component: __WEBPACK_IMPORTED_MODULE_38__live_2_live_2_component__["a" /* Live2Component */] },
@@ -1112,7 +1116,7 @@ AppModule = __decorate([
     })
 ], AppModule);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/app.module.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/app.module.js.map
 
 /***/ }),
 
@@ -1153,7 +1157,7 @@ var router = [
     { path: '**', component: __WEBPACK_IMPORTED_MODULE_4__stations_main_socaltelevision_home_component__["a" /* HomeComponent */] }
 ];
 var routes = __WEBPACK_IMPORTED_MODULE_0__angular_router__["c" /* RouterModule */].forRoot(router, { useHash: true });
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/app.router.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/app.router.js.map
 
 /***/ }),
 
@@ -1520,7 +1524,7 @@ SocialShareIconsComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], SocialShareIconsComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/social-share-icons.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/social-share-icons.component.js.map
 
 /***/ }),
 
@@ -1581,7 +1585,7 @@ JobsComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], JobsComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/jobs.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/jobs.component.js.map
 
 /***/ }),
 
@@ -1652,7 +1656,7 @@ ContactusComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], ContactusComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/contactus.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/contactus.component.js.map
 
 /***/ }),
 
@@ -1723,7 +1727,7 @@ HoroscopesComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], HoroscopesComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/horoscopes.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/horoscopes.component.js.map
 
 /***/ }),
 
@@ -1784,7 +1788,7 @@ SnowSummitComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], SnowSummitComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/snow-summit.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/snow-summit.component.js.map
 
 /***/ }),
 
@@ -1845,7 +1849,7 @@ StockMarketComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], StockMarketComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/stock-market.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/stock-market.component.js.map
 
 /***/ }),
 
@@ -1916,7 +1920,7 @@ TwitterFeedComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], TwitterFeedComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/twitter-feed.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/twitter-feed.component.js.map
 
 /***/ }),
 
@@ -1977,7 +1981,7 @@ SocaltelevisionComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], SocaltelevisionComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/socaltelevision.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/socaltelevision.component.js.map
 
 /***/ }),
 
@@ -2063,7 +2067,7 @@ Ad1Component = __decorate([
 ], Ad1Component);
 
 var _a;
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/ad1.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/ad1.component.js.map
 
 /***/ }),
 
@@ -2151,7 +2155,7 @@ HomeVideo0Component = __decorate([
 ], HomeVideo0Component);
 
 var _a;
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/home-video-0.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/home-video-0.component.js.map
 
 /***/ }),
 
@@ -2239,7 +2243,7 @@ HomeVideo1Component = __decorate([
 ], HomeVideo1Component);
 
 var _a;
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/home-video-1.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/home-video-1.component.js.map
 
 /***/ }),
 
@@ -2328,7 +2332,7 @@ HomeVideo2Component = __decorate([
 ], HomeVideo2Component);
 
 var _a;
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/home-video-2.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/home-video-2.component.js.map
 
 /***/ }),
 
@@ -2389,7 +2393,7 @@ HomeVideo3Component = __decorate([
     __metadata("design:paramtypes", [])
 ], HomeVideo3Component);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/home-video-3.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/home-video-3.component.js.map
 
 /***/ }),
 
@@ -2450,7 +2454,7 @@ HomeVideo4Component = __decorate([
     __metadata("design:paramtypes", [])
 ], HomeVideo4Component);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/home-video-4.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/home-video-4.component.js.map
 
 /***/ }),
 
@@ -2511,7 +2515,7 @@ HomeVideo5Component = __decorate([
     __metadata("design:paramtypes", [])
 ], HomeVideo5Component);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/home-video-5.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/home-video-5.component.js.map
 
 /***/ }),
 
@@ -2586,7 +2590,7 @@ HomeVideoComponent = __decorate([
 ], HomeVideoComponent);
 
 var _a;
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/home-video.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/home-video.component.js.map
 
 /***/ }),
 
@@ -2661,7 +2665,7 @@ IndependancedayComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], IndependancedayComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/independanceday.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/independanceday.component.js.map
 
 /***/ }),
 
@@ -2733,7 +2737,7 @@ LaCountyFairComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], LaCountyFairComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/la-county-fair.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/la-county-fair.component.js.map
 
 /***/ }),
 
@@ -2807,7 +2811,7 @@ Live2Component = __decorate([
     __metadata("design:paramtypes", [])
 ], Live2Component);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/live-2.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/live-2.component.js.map
 
 /***/ }),
 
@@ -2868,7 +2872,7 @@ Cam10fwyWestOfMonteVistaAveComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], Cam10fwyWestOfMonteVistaAveComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/cam-10fwy-west-of-monte-vista-ave.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/cam-10fwy-west-of-monte-vista-ave.component.js.map
 
 /***/ }),
 
@@ -2929,7 +2933,7 @@ LiveTrafficCamsComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], LiveTrafficCamsComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/live-traffic-cams.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/live-traffic-cams.component.js.map
 
 /***/ }),
 
@@ -3001,7 +3005,7 @@ SigalertComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], SigalertComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/sigalert.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/sigalert.component.js.map
 
 /***/ }),
 
@@ -3073,7 +3077,7 @@ LocalReviewsComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], LocalReviewsComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/local-reviews.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/local-reviews.component.js.map
 
 /***/ }),
 
@@ -3145,7 +3149,7 @@ MissionInnFestivalOfLightsComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], MissionInnFestivalOfLightsComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/mission-inn-festival-of-lights.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/mission-inn-festival-of-lights.component.js.map
 
 /***/ }),
 
@@ -3206,7 +3210,7 @@ MissionInnFestivalOfLights2018Component = __decorate([
     __metadata("design:paramtypes", [])
 ], MissionInnFestivalOfLights2018Component);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/mission-inn-festival-of-lights2018.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/mission-inn-festival-of-lights2018.component.js.map
 
 /***/ }),
 
@@ -3278,7 +3282,7 @@ CoffeeDayComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], CoffeeDayComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/coffee-day.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/coffee-day.component.js.map
 
 /***/ }),
 
@@ -3350,7 +3354,7 @@ DogDayComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], DogDayComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/dog-day.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/dog-day.component.js.map
 
 /***/ }),
 
@@ -3422,7 +3426,7 @@ IcecreamComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], IcecreamComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/icecream.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/icecream.component.js.map
 
 /***/ }),
 
@@ -3494,7 +3498,7 @@ RollerCoasterComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], RollerCoasterComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/roller-coaster.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/roller-coaster.component.js.map
 
 /***/ }),
 
@@ -3565,7 +3569,81 @@ NewsComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], NewsComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/news.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/news.component.js.map
+
+/***/ }),
+
+/***/ "../../../../../src/app/nit-wit-ridge/nit-wit-ridge.component.css":
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, "body { background: #222; }\n\n/* Small devices (portrait tablets and large phones, 600px and up) */\n\n@media only screen and (max-width: 600px) {\n  .weatherwidget {\n    display: none;\n  }\n}\n\n.hideVideo {\n  display: none;\n}\n\n.showVideo {\n  display: block;\n}\n\n.video_player { \n  display: table; line-height: 0;\n  font-size: 0; background: #000;\n  max-width: 1000px;\n  margin: 0 0 1% 0;\n}\n\n.video_container { \n  position: relative;\n}\n\n.video_player div, .video_player figcaption { \n  display: table-cell;\n  vertical-align: top; \n}\n\n.video_container video { \n  position: absolute; \n  display: block;\n  width: 100%;\n  height: 100%;\n  top: 0;\n}\n\n.video_player figcaption { width: 25%; }\n\n.video_player figcaption a { display: block; }\n\n.video_player figcaption a { \n  opacity: .5;\n  -webkit-transition: 1s opacity;\n  transition: 1s opacity; \n}\n\n.video_player figcaption a img, figure video { \n  width: 100%; height: auto; \n}\n\n.video_player figcaption a.currentvid, .video_player figcaption a:hover, .video_player figcaption a:focus { opacity: 1; }\n\n@media (max-width: 700px) {\n  .video_player video, .video_player figcaption { \n    display: table-row; \n  }\n.video_container { padding-top: 56.25%; }\n.video_player figcaption a { \n  display: inline-block; width: 33.33%; \n}\n}\n", ""]);
+
+// exports
+
+
+/*** EXPORTS FROM exports-loader ***/
+module.exports = module.exports.toString();
+
+/***/ }),
+
+/***/ "../../../../../src/app/nit-wit-ridge/nit-wit-ridge.component.html":
+/***/ (function(module, exports) {
+
+module.exports = "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-92954301-6\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-92954301-6');\n</script>\n\n<!-- Weather Component -->\n<div style=\"width: 90%; margin: 10px;\"><iframe style=\"display: block;\" src=\"https://cdnres.willyweather.com/widget/loadView.html?id=87637\" width=\"90%\" height=\"92\" frameborder=\"0\" scrolling=\"no\"></iframe><a style=\"position: relative;text-indent: -9999em;width: 20px;margin: -92px 0 0 0;z-index: 1;height: 92px;float: right\" href=\"https://www.willyweather.com/ca/riverside-county/corona.html\" rel=\"nofollow\">Corona weather info</a></div>\n<div style=\"text-align: center;\"><a routerLink=\"/weather\" >Click Here For More Weather</a></div>\n<!-- END Weather Component -->\n  <h3>You're Watching</h3>\n  <h1>{{stationName}}</h1>\n\n  <div class=\"container\">\n      <div class=\"row\">\n        <div class=\"col-sm\" style=\"max-width:250px;\">\n          <!-- Horoscope Start -->\n          <h5>Daily Horoscope</h5>\n            <iframe height=\"600px\" frameborder=\"0\" width=\"220px\" style=\"max-width:250px;\" src=\"https://www.ask-oracle.com/embed/?bgcolor=%23ccc&textcolor=%23ddd&linkcolor=blue\"></iframe>      \n          <!-- Horoscope End -->\n        </div>\n        <div class=\"col-sm\">\n            <div class=\"embed-responsive embed-responsive-16by9\">\n                <video class=\"embed-responsive-item\" controls controlsList=\"nodownload\" poster=\"https://s3-us-west-2.amazonaws.com/jppmsolutions/Videos/NittWittRidge/NitWitRidge.png\" playsinline class=\"myVideo\" (ended)=\"videoEnd()\">\n                  <source src=\"https://s3-us-west-2.amazonaws.com/jppmsolutions/Videos/NittWittRidge/NitWitHouse_4K.mp4\" type=\"video/mp4\">\n                  <source src=\"https://s3-us-west-2.amazonaws.com/jppmsolutions/Videos/NittWittRidge/NitWitHouse_4K.webmhd.webm\" type=\"video/webm\">\n                  <source src=\"https://s3-us-west-2.amazonaws.com/jppmsolutions/Videos/NittWittRidge/NitWitHouse_4K.oggtheora.ogv\" type=\"video/ogg\">\n              </video>\n              </div>\n            <br/>\n            <span>{{description}}</span>\n          <p>{{subdescription}}</p>\n          <br/><br/><span style=\"color: white\">Back to </span><a routerLink=\"/stations-main\"><button  class=\"btn-primary\" style=\"border-radius: 15px;\">LIVE TV CHANNELS</button></a>\n          <br/>\n          <div id=\"share\">   <h5>Share this on:</h5>       <!-- facebook -->       <a class=\"facebook\" href=\"https://www.facebook.com/share.php?u={{url}}&title={{title}}&placeholder={{title}}\" target=\"blank\"><i class=\"fab fa-facebook-f\"></i></a>            <!-- twitter -->       <a class=\"twitter\" href=\"https://twitter.com/intent/tweet?status=Come visit or Check Out this+{{title}}+Click on '+{{header_link}}+' on+{{url}}\" target=\"blank\"><i class=\"fab fa-twitter\"></i></a>           <!-- Reddit (url, title) -->       <a href=\"http://reddit.com/submit?url={{url}}&title={{title}}\" target=\"_blank\" class=\"share-btn reddit\">         <i class=\"fab fa-reddit\"></i>       </a>        <!-- LinkedIn -->       <a href=\"http://www.linkedin.com/shareArticle?url={{url}}&title={{title}}&summary={{summary}}&source={{source_url}}\" target=\"_blank\" class=\"share-btn linkedin\">         <i class=\"fab fa-linkedin\"></i>       </a>        <!-- Email -->       <a href=\"mailto:?subject={{subject}}&body={{body}}\" target=\"_blank\" class=\"share-btn email\">         <i class=\"fa fa-envelope\"></i>       </a>      </div>\n        </div>\n        <div class=\"col-sm\" >\n          <!-- Stock Market Widget Start -->\n          <h5>Daily Stocks</h5>\n            <iframe src=\"https://investingwidgets.com/leading-stocks?theme=darkTheme&hideTitle=true&roundedCorners=false\" width=\"110%\" height=\"600\" frameborder=\"0\" allowtransparency=\"true\" marginwidth=\"0\" marginheight=\"0\"></iframe><div class=\"poweredBy\" style=\"font-family: Arial, Helvetica, sans-serif; color: black;\">&nbsp;</div>\n          <!-- Stock Market Widget End -->\n          </div>\n      </div>\n    </div>\n<!-- <p><a class=\"nav-link btn btn-primary\" href=\"//worldtelevision.tv/#/khou-11\" target=\"_blank\">Watch the News Conference of Santa Fe, Texas Shooting LIVE</a></p> -->"
+
+/***/ }),
+
+/***/ "../../../../../src/app/nit-wit-ridge/nit-wit-ridge.component.ts":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NitWitRidgeComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("../../../core/index.js");
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+var NitWitRidgeComponent = (function () {
+    function NitWitRidgeComponent() {
+        this.offlineMessage1 = "SoCal Television - Special Spots";
+        this.subdesc = "Come along with us as we tour Nit Wit Ridge - a house on two and a half acres in Cambria, California, United States. Artist/recluse Arthur \"Art\" Harold Beal bought his hillside lot in 1928 and spent most of the next 50 years carving out the terraces with only a pick and shovel, creating his own \"castle on a hill\" ";
+        this.stationName = 'SoCal Television';
+        // Social Sharing binding data
+        this.title = "SoCal Television";
+        this.header_link = "Nit Wit Ridge";
+        this.url = "https://www.socaltelevision.com/+#+/nit-wit-ridge";
+        this.summary = "Come along with us as we tour Nit Wit Ridge - a house on two and a half acres in Cambria, California, United States. Artist/recluse Arthur \"Art\" Harold Beal bought his hillside lot in 1928 and spent most of the next 50 years carving out the terraces with only a pick and shovel, creating his own \"castle on a hill\" ";
+        this.source_url = this.url;
+        this.subject = "Check Out this SoCalTelevision.com website";
+        this.body = 'SoCalTelevision.com Special Spots ventures throughtout Southern California and beyond, to showcase attractions, events, entertainment, places of interest, restaurant reviews, and more...';
+        this.description = this.offlineMessage1;
+        this.subdescription = this.subdesc;
+    }
+    NitWitRidgeComponent.prototype.ngOnInit = function () {
+    };
+    return NitWitRidgeComponent;
+}());
+NitWitRidgeComponent = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Component */])({
+        selector: 'app-nit-wit-ridge',
+        template: __webpack_require__("../../../../../src/app/nit-wit-ridge/nit-wit-ridge.component.html"),
+        styles: [__webpack_require__("../../../../../src/app/nit-wit-ridge/nit-wit-ridge.component.css"), __webpack_require__("../../../../../src/app/components/social-share-icons/social-share-icons.component.css")]
+    }),
+    __metadata("design:paramtypes", [])
+], NitWitRidgeComponent);
+
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/nit-wit-ridge.component.js.map
 
 /***/ }),
 
@@ -3637,7 +3715,7 @@ SbdFest2018Component = __decorate([
     __metadata("design:paramtypes", [])
 ], SbdFest2018Component);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/sbd-fest-2018.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/sbd-fest-2018.component.js.map
 
 /***/ }),
 
@@ -3662,7 +3740,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/show-archives/show-archives.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-92954301-6\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-92954301-6');\n</script>\n<div class=\"container-1\">\n<!-- Weather Component -->\n<div style=\"width: 768px;\" class=\"img-responsive\"><iframe style=\"display: block;\" src=\"https://cdnres.willyweather.com/widget/loadView.html?id=87679\" width=\"768\" height=\"92\" frameborder=\"0\" scrolling=\"no\"></iframe><a style=\"float: right;position: relative;z-index: 1;height: 92px;width: 20px;margin: -92px 0 0 0;text-indent: -9999em\" href=\"https://www.willyweather.com/ca/riverside-county/corona.html\" rel=\"nofollow\"></a></div>\n<div style=\"text-align: center;\"><a routerLink=\"/weather\" >Click Here For More Weather</a></div>\n<!-- END Weather Component -->\n<h3>SoCal Television - Show Archives</h3>\n\n<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-sm-6, title\">{{ show0_title }}</div>\n    <div class=\"col-sm-4, btn\"><a href=\"{{ show0_url }}\" target=\"_blank\" class=\"btn btn-primary\">Click Here to Watch</a></div>\n  </div>\n  <div class=\"row\">\n    <div class=\"col-sm-6, title\">{{ show1_title }}</div>\n    <div class=\"col-sm-4,  btn\"><a routerLink=\"/sbd-fest-2018\" target=\"_blank\" class=\"btn btn-primary\">Click Here to Watch</a></div>\n  </div>\n  <div class=\"row\">\n    <div class=\"col-sm-6, title\">{{ show2_title }}</div>\n    <div class=\"col-sm-4, btn\"><a href=\"{{ show2_url }}\" target=\"_blank\" class=\"btn btn-primary\">Click Here to Watch</a></div>\n  </div>\n  <div class=\"row\">\n    <div class=\"col-sm-6, title\">{{ show3_title }}</div>\n    <div class=\"col-sm-4, btn\"><a href=\"{{ show3_url }}\" target=\"_blank\" class=\"btn btn-primary\">Click Here to Watch</a></div>\n  </div>\n  <div class=\"row\">\n    <div class=\"col-sm-6, title\">{{ show4_title }}</div>\n    <div class=\"col-sm-4, btn\"><a href=\"{{ show4_url }}\" target=\"_blank\" class=\"btn btn-primary\">Click Here to Watch</a></div>\n  </div>\n</div>\n\n<p>Watch SoCal Television 24/7 at <a class=\"nav-link\" routerLink=\"\">www.SoCalTelevision.com</a></p>\n\n<p>Please Like and Follow @SoCalTelevision on social!</p>\n\n<p>SoCAL television is also distributed through DVD. <a routerLink=\"contact\">Contact us</a> for more information about DVD's of the show.\n</p>\n<div id=\"share\">   <h5>Share this on:</h5>       <!-- facebook -->       <a class=\"facebook\" href=\"https://www.facebook.com/share.php?u={{url}}&title={{title}}&placeholder={{title}}\" target=\"blank\"><i class=\"fab fa-facebook-f\"></i></a>            <!-- twitter -->       <a class=\"twitter\" href=\"https://twitter.com/intent/tweet?status=Come visit or Check Out this+{{title}}+Click on '+{{header_link}}+' on+{{url}}\" target=\"blank\"><i class=\"fab fa-twitter\"></i></a>           <!-- Reddit (url, title) -->       <a href=\"http://reddit.com/submit?url={{url}}&title={{title}}\" target=\"_blank\" class=\"share-btn reddit\">         <i class=\"fab fa-reddit\"></i>       </a>        <!-- LinkedIn -->       <a href=\"http://www.linkedin.com/shareArticle?url={{url}}&title={{title}}&summary={{summary}}&source={{source_url}}\" target=\"_blank\" class=\"share-btn linkedin\">         <i class=\"fab fa-linkedin\"></i>       </a>        <!-- Email -->       <a href=\"mailto:?subject={{subject}}&body={{body}}\" target=\"_blank\" class=\"share-btn email\">         <i class=\"fa fa-envelope\"></i>       </a>      </div>\n</div>"
+module.exports = "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-92954301-6\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-92954301-6');\n</script>\n<div class=\"container-1\">\n<!-- Weather Component -->\n<div style=\"width: 768px;\" class=\"img-responsive\"><iframe style=\"display: block;\" src=\"https://cdnres.willyweather.com/widget/loadView.html?id=87679\" width=\"768\" height=\"92\" frameborder=\"0\" scrolling=\"no\"></iframe><a style=\"float: right;position: relative;z-index: 1;height: 92px;width: 20px;margin: -92px 0 0 0;text-indent: -9999em\" href=\"https://www.willyweather.com/ca/riverside-county/corona.html\" rel=\"nofollow\"></a></div>\n<div style=\"text-align: center;\"><a routerLink=\"/weather\" >Click Here For More Weather</a></div>\n<!-- END Weather Component -->\n<h3>SoCal Television - Show Archives</h3>\n\n<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-sm-6, title\">{{ show0_title }}</div>\n    <div class=\"col-sm-4, btn\"><a href=\"{{ show0_url }}\" target=\"_blank\" class=\"btn btn-primary\">Click Here to Watch</a></div>\n  </div>\n  <div class=\"row\">\n    <div class=\"col-sm-6, title\">{{ show1_title }}</div>\n    <div class=\"col-sm-4,  btn\"><a routerLink=\"/sbd-fest-2018\" target=\"_blank\" class=\"btn btn-primary\">Click Here to Watch</a></div>\n  </div>\n  <div class=\"row\">\n    <div class=\"col-sm-6, title\">{{ show2_title }}</div>\n    <div class=\"col-sm-4, btn\"><a href=\"{{ show2_url }}\" target=\"_blank\" class=\"btn btn-primary\">Click Here to Watch</a></div>\n  </div>\n  <div class=\"row\">\n    <div class=\"col-sm-6, title\">{{ show3_title }}</div>\n    <div class=\"col-sm-4, btn\"><a href=\"{{ show3_url }}\" target=\"_blank\" class=\"btn btn-primary\">Click Here to Watch</a></div>\n  </div>\n  <div class=\"row\">\n    <div class=\"col-sm-6, title\">{{ show4_title }}</div>\n    <div class=\"col-sm-4, btn\"><a href=\"{{ show4_url }}\" target=\"_blank\" class=\"btn btn-primary\">Click Here to Watch</a></div>\n  </div>\n  <div class=\"row\">\n      <div class=\"col-sm-6, title\">{{ show5_title }}</div>\n      <div class=\"col-sm-4, btn\"><a routerLink=\"{{ show5_url }}\" class=\"btn btn-primary\">Click Here to Watch</a></div>\n    </div>\n</div>\n\n<p>Watch SoCal Television 24/7 at <a class=\"nav-link\" routerLink=\"\">www.SoCalTelevision.com</a></p>\n\n<p>Please Like and Follow @SoCalTelevision on social!</p>\n\n<p>SoCAL television is also distributed through DVD. <a routerLink=\"contact\">Contact us</a> for more information about DVD's of the show.\n</p>\n<div id=\"share\">   <h5>Share this on:</h5>       <!-- facebook -->       <a class=\"facebook\" href=\"https://www.facebook.com/share.php?u={{url}}&title={{title}}&placeholder={{title}}\" target=\"blank\"><i class=\"fab fa-facebook-f\"></i></a>            <!-- twitter -->       <a class=\"twitter\" href=\"https://twitter.com/intent/tweet?status=Come visit or Check Out this+{{title}}+Click on '+{{header_link}}+' on+{{url}}\" target=\"blank\"><i class=\"fab fa-twitter\"></i></a>           <!-- Reddit (url, title) -->       <a href=\"http://reddit.com/submit?url={{url}}&title={{title}}\" target=\"_blank\" class=\"share-btn reddit\">         <i class=\"fab fa-reddit\"></i>       </a>        <!-- LinkedIn -->       <a href=\"http://www.linkedin.com/shareArticle?url={{url}}&title={{title}}&summary={{summary}}&source={{source_url}}\" target=\"_blank\" class=\"share-btn linkedin\">         <i class=\"fab fa-linkedin\"></i>       </a>        <!-- Email -->       <a href=\"mailto:?subject={{subject}}&body={{body}}\" target=\"_blank\" class=\"share-btn email\">         <i class=\"fa fa-envelope\"></i>       </a>      </div>\n</div>"
 
 /***/ }),
 
@@ -3694,6 +3772,8 @@ var ShowArchivesComponent = (function () {
         this.show3_url = "https://s3-us-west-2.amazonaws.com/socaltelevision/Cinnaholic/GrandOpening_CinnoholicFULL.mp4";
         this.show4_title = "Salvation Mountain";
         this.show4_url = "https://s3-us-west-2.amazonaws.com/jppmsolutions/Videos/SalvationMountain_Complete.mp4.mp4";
+        this.show5_title = "Nit Wit Ridge";
+        this.show5_url = "/nit-wit-ridge";
         // Social Sharing binding data
         this.title = "SoCal Television";
         this.header_link = "Special Spots";
@@ -3718,7 +3798,7 @@ ShowArchivesComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], ShowArchivesComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/show-archives.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/show-archives.component.js.map
 
 /***/ }),
 
@@ -3792,7 +3872,7 @@ ArizonaComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], ArizonaComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/arizona.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/arizona.component.js.map
 
 /***/ }),
 
@@ -3864,7 +3944,7 @@ Fox10phoenixComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], Fox10phoenixComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/fox10phoenix.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/fox10phoenix.component.js.map
 
 /***/ }),
 
@@ -3936,7 +4016,7 @@ Abc30BakersfieldComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], Abc30BakersfieldComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/abc30-bakersfield.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/abc30-bakersfield.component.js.map
 
 /***/ }),
 
@@ -4008,7 +4088,7 @@ BakersfieldNews23abcComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], BakersfieldNews23abcComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/bakersfield-news-23abc.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/bakersfield-news-23abc.component.js.map
 
 /***/ }),
 
@@ -4080,7 +4160,7 @@ CaliforniaComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], CaliforniaComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/california.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/california.component.js.map
 
 /***/ }),
 
@@ -4152,7 +4232,7 @@ Fox11laComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], Fox11laComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/fox11la.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/fox11la.component.js.map
 
 /***/ }),
 
@@ -4214,7 +4294,7 @@ Fox5sandiegoComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], Fox5sandiegoComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/fox5sandiego.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/fox5sandiego.component.js.map
 
 /***/ }),
 
@@ -4286,7 +4366,7 @@ Kron4Component = __decorate([
     __metadata("design:paramtypes", [])
 ], Kron4Component);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/kron4.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/kron4.component.js.map
 
 /***/ }),
 
@@ -4358,7 +4438,7 @@ Ktla5Component = __decorate([
     __metadata("design:paramtypes", [])
 ], Ktla5Component);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/ktla5.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/ktla5.component.js.map
 
 /***/ }),
 
@@ -4430,7 +4510,7 @@ News3AbcPalmspringsComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], News3AbcPalmspringsComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/news-3-abc-palmsprings.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/news-3-abc-palmsprings.component.js.map
 
 /***/ }),
 
@@ -4504,7 +4584,7 @@ Colorado9newsComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], Colorado9newsComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/colorado-9news.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/colorado-9news.component.js.map
 
 /***/ }),
 
@@ -4580,7 +4660,7 @@ ColoradoComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], ColoradoComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/colorado.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/colorado.component.js.map
 
 /***/ }),
 
@@ -4654,7 +4734,7 @@ Nbc11newsComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], Nbc11newsComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/nbc11news.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/nbc11news.component.js.map
 
 /***/ }),
 
@@ -4726,7 +4806,7 @@ HawaiiComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], HawaiiComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/hawaii.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/hawaii.component.js.map
 
 /***/ }),
 
@@ -4798,7 +4878,7 @@ HawaiiNewsNowComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], HawaiiNewsNowComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/hawaii-news-now.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/hawaii-news-now.component.js.map
 
 /***/ }),
 
@@ -4870,7 +4950,7 @@ Khon2hawaiiComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], Khon2hawaiiComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/khon2hawaii.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/khon2hawaii.component.js.map
 
 /***/ }),
 
@@ -4942,7 +5022,7 @@ Kitv4hawaiiComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], Kitv4hawaiiComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/kitv4hawaii.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/kitv4hawaii.component.js.map
 
 /***/ }),
 
@@ -5016,7 +5096,7 @@ LiveComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], LiveComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/live.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/live.component.js.map
 
 /***/ }),
 
@@ -5088,7 +5168,7 @@ Boston25NewsComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], Boston25NewsComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/boston-25-news.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/boston-25-news.component.js.map
 
 /***/ }),
 
@@ -5160,7 +5240,7 @@ MassachusettsComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], MassachusettsComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/massachusetts.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/massachusetts.component.js.map
 
 /***/ }),
 
@@ -5236,7 +5316,7 @@ HomeComponent = __decorate([
 ], HomeComponent);
 
 var _a;
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/home.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/home.component.js.map
 
 /***/ }),
 
@@ -5311,7 +5391,7 @@ StationsMainComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], StationsMainComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/stations-main.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/stations-main.component.js.map
 
 /***/ }),
 
@@ -5383,7 +5463,7 @@ Fox4TexasComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], Fox4TexasComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/fox-4-texas.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/fox-4-texas.component.js.map
 
 /***/ }),
 
@@ -5455,7 +5535,7 @@ TexasComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], TexasComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/texas.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/texas.component.js.map
 
 /***/ }),
 
@@ -5527,7 +5607,7 @@ CbsComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], CbsComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/cbs.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/cbs.component.js.map
 
 /***/ }),
 
@@ -5598,7 +5678,7 @@ VansusopenofsurfingLiveComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], VansusopenofsurfingLiveComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/vansusopenofsurfing-live.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/vansusopenofsurfing-live.component.js.map
 
 /***/ }),
 
@@ -5670,7 +5750,7 @@ VeteransDay2018Component = __decorate([
     __metadata("design:paramtypes", [])
 ], VeteransDay2018Component);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/veterans-day-2018.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/veterans-day-2018.component.js.map
 
 /***/ }),
 
@@ -5695,7 +5775,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/weather/weather.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<h2 class=\"pagetitle\">{{ title }}</h2>\n<iframe id=\"weather-map1\" width=\"100%\" height=\"550px\" src=\"https://embed.windy.com/embed2.html?lat=33.784&lon=-117.374&zoom=9&level=surface&overlay=wind&menu=&message=true&marker=&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=33.200&detailLon=-117.380&metricWind=default&metricTemp=default&radarRange=-1\" frameborder=\"0\"></iframe>\n<br/>\n<div id=\"share\">   <h5>Share this on:</h5>       <!-- facebook -->       <a class=\"facebook\" href=\"https://www.facebook.com/share.php?u={{url}}&title={{title}}&placeholder={{title}}\" target=\"blank\"><i class=\"fab fa-facebook-f\"></i></a>            <!-- twitter -->       <a class=\"twitter\" href=\"https://twitter.com/intent/tweet?status=Come visit or Check Out this+{{title}}+Click on '+{{header_link}}+' on+{{url}}\" target=\"blank\"><i class=\"fab fa-twitter\"></i></a>           <!-- Reddit (url, title) -->       <a href=\"http://reddit.com/submit?url={{url}}&title={{title}}\" target=\"_blank\" class=\"share-btn reddit\">         <i class=\"fab fa-reddit\"></i>       </a>        <!-- LinkedIn -->       <a href=\"http://www.linkedin.com/shareArticle?url={{url}}&title={{title}}&summary={{summary}}&source={{source_url}}\" target=\"_blank\" class=\"share-btn linkedin\">         <i class=\"fab fa-linkedin\"></i>       </a>        <!-- Email -->       <a href=\"mailto:?subject={{subject}}&body={{body}}\" target=\"_blank\" class=\"share-btn email\">         <i class=\"fa fa-envelope\"></i>       </a>      </div>"
+module.exports = "<h2 class=\"pagetitle\">{{ title }}</h2>\n<iframe id=\"weather-map1\" width=\"100%\" height=\"550px\" src=\"https://embed.windy.com/embed2.html?lat=33.787&lon=-117.491&zoom=10&level=surface&overlay=wind&menu=&message=true&marker=&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=33.787&detailLon=-117.491&metricWind=mph&metricTemp=%C2%B0F&radarRange=-1\" frameborder=\"0\"></iframe>\n<br/>\n<div id=\"share\">   <h5>Share this on:</h5>       <!-- facebook -->       <a class=\"facebook\" href=\"https://www.facebook.com/share.php?u={{url}}&title={{title}}&placeholder={{title}}\" target=\"blank\"><i class=\"fab fa-facebook-f\"></i></a>            <!-- twitter -->       <a class=\"twitter\" href=\"https://twitter.com/intent/tweet?status=Come visit or Check Out this+{{title}}+Click on '+{{header_link}}+' on+{{url}}\" target=\"blank\"><i class=\"fab fa-twitter\"></i></a>           <!-- Reddit (url, title) -->       <a href=\"http://reddit.com/submit?url={{url}}&title={{title}}\" target=\"_blank\" class=\"share-btn reddit\">         <i class=\"fab fa-reddit\"></i>       </a>        <!-- LinkedIn -->       <a href=\"http://www.linkedin.com/shareArticle?url={{url}}&title={{title}}&summary={{summary}}&source={{source_url}}\" target=\"_blank\" class=\"share-btn linkedin\">         <i class=\"fab fa-linkedin\"></i>       </a>        <!-- Email -->       <a href=\"mailto:?subject={{subject}}&body={{body}}\" target=\"_blank\" class=\"share-btn email\">         <i class=\"fa fa-envelope\"></i>       </a>      </div>"
 
 /***/ }),
 
@@ -5741,7 +5821,7 @@ WeatherComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], WeatherComponent);
 
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/weather.component.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/weather.component.js.map
 
 /***/ }),
 
@@ -5758,7 +5838,7 @@ WeatherComponent = __decorate([
 var environment = {
     production: false
 };
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/environment.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/environment.js.map
 
 /***/ }),
 
@@ -5779,7 +5859,7 @@ if (__WEBPACK_IMPORTED_MODULE_2__environments_environment__["a" /* environment *
     Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["_28" /* enableProdMode */])();
 }
 Object(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* platformBrowserDynamic */])().bootstrapModule(__WEBPACK_IMPORTED_MODULE_3__app_app_module__["a" /* AppModule */]);
-//# sourceMappingURL=/Users/socaltelevision/Documents/websites/live-television/src/main.js.map
+//# sourceMappingURL=/Users/socaltelevision/Documents/websites/socaltelevision-testarea/socaltelevision-testarea/src/main.js.map
 
 /***/ }),
 
