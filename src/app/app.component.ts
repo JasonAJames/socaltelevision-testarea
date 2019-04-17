@@ -40,13 +40,8 @@ export class AppComponent implements OnInit {
     router.events.subscribe(val => {
       if (location.path() != "") {
         this.route = location.path();
-        this.currentPath = this.route;
         console.log("the route is: " + this.route);       
-      } else {
-        this.route = "Home";
-        this.currentPath = this.route;
-        console.log("the root route is: " + this.route);
-      }
+      } 
     });
   }
 
