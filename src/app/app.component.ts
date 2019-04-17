@@ -1,5 +1,7 @@
-import { Component } from '@angular/core';
-
+import { Component, OnInit } from '@angular/core';
+import { Location } from "@angular/common";
+import { Router } from '@angular/router';
+// import { router } from './app.router';
 
 @Component({
   selector: 'app-root',
@@ -24,8 +26,27 @@ import { Component } from '@angular/core';
 ]
 })
 
-export class AppComponent {
+export class AppComponent implements OnInit {
+  route: string;
+
+  constructor(location: Location, router: Router) {
+    router.events.subscribe(val => {
+      if (location.path() != "") {
+        this.route = location.path();
+      } else {
+        this.route = "Home";
+      }
+    });
+  }
+
+  currentRoute = this.route;
+  
+  ngOnInit() {}
+
   title = 'SoCalTelevision.com';
 
+  // onSelect(){
+  //   this.router.navigate(['/', router.]);
+  // }
 
 }
