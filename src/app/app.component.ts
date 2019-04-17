@@ -31,33 +31,33 @@ import { Router, Route } from '@angular/router';
 
 
 export class AppComponent implements OnInit {
-  route: string;
-  d = new Date();
-  local: string;
+//   route: string;
+   d = new Date();
+//   local: string;
 
-public evilTitle: string = "";
+// public evilTitle: string = "";
 
-  constructor(location: Location, router: Router) {
-    router.events.subscribe(val => {
-      if (location.path() != "") {
-        this.route = location.path();
+//   constructor(location: Location, router: Router) {
+//     router.events.subscribe(val => {
+//       if (location.path() != "") {
+//         this.route = location.path();
 
-        // this.newMethod();
+//         // this.newMethod();
 
-        console.log("the route is: " + this.route); 
+//         console.log("the route is: " + this.route); 
     
-      } 
-    });
-  }
+//       } 
+//     });
+//   }
 
 copyrightDate = this.d.getFullYear();
 
 
-  newMethod() {
-    this.local = this.route;
-    console.log("inside newMethod function the route is: " + this.local);
-    this.evilTitle = this.local;
-  }
+  // newMethod() {
+  //   this.local = this.route;
+  //   console.log("inside newMethod function the route is: " + this.local);
+  //   this.evilTitle = this.local;
+  // }
 
   ngOnInit() {
     // this.evilTitle = location.href;
