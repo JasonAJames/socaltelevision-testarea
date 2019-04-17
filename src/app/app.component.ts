@@ -34,13 +34,14 @@ export class AppComponent implements OnInit {
   route: string;
   currentPath: string;
   d = new Date();
-  Loca = this.route;
+  Loca: any;
 
   constructor(location: Location, router: Router) {
     router.events.subscribe(val => {
       if (location.path() != "") {
         this.route = location.path();
-        console.log("the route is: " + this.route);       
+        console.log("the route is: " + this.route); 
+        this.Loca = this.route;      
       } 
     });
   }
