@@ -35,16 +35,21 @@ export class AppComponent implements OnInit {
       if (location.path() != "") {
         this.route = location.path();
         this.currentPath = this.route;
+        console.log("the route is: " + this.route);
       } else {
         this.route = "Home";
         this.currentPath = this.route;
+        console.log("the root route is: " + this.route);
       }
     });
   }
 
   currentRoute = this.currentPath;
 
-  ngOnInit() {}
+  ngOnInit() {
+    
+
+  }
 
   title = 'SoCalTelevision.com';
 
