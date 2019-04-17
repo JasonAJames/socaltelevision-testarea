@@ -1,5 +1,11 @@
 <div class="container-fluid">
 <h2>Is this feed working?</h2>
-<button (click)="YesFeedWorks()">YES</button>&nbsp;<button (click)="FeedNotWorking()">NO</button>
- <br/>{{FeedWorkingResponse}}<br/>
+<form>
+  <div class="form-group">
+
+<input type="button" class="form-control" (click)="YesFeedWorks()">YES</input></div>&nbsp;<div class="form-group"></div><input type="button" class="form-control" (click)="FeedNotWorking()">NO</input>
+ 
+</div>
+</form>
+<br/>{{FeedWorkingResponse}}<br/>
 </div>
