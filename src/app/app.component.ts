@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Location } from "@angular/common";
-import { Router } from '@angular/router';
+import { Router, Route } from '@angular/router';
 // import { router } from './app.router';
 
 @Component({
@@ -35,7 +35,7 @@ export class AppComponent implements OnInit {
       if (location.path() != "") {
         this.route = location.path();
         this.currentPath = this.route;
-        console.log("the route is: " + this.route);
+        console.log("the route is: " + this.route);       
       } else {
         this.route = "Home";
         this.currentPath = this.route;
@@ -43,12 +43,10 @@ export class AppComponent implements OnInit {
       }
     });
   }
-
-  currentRoute = this.currentPath;
+  currentRoute = this.route = this.currentPath;
 
   ngOnInit() {
-    
-
+  
   }
 
   title = 'SoCalTelevision.com';
