@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { Location } from "@angular/common";
 import { Router, Route } from '@angular/router';
 // import { router } from './app.router';
@@ -43,7 +43,8 @@ export class AppComponent implements OnInit {
       }
     });
   }
-  evilTitle = this.route;
+  
+  @Input() evilTitle = this.route;
 
   ngOnInit() {
   
