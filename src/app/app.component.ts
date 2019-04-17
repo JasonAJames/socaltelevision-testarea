@@ -43,8 +43,8 @@ export class AppComponent implements OnInit {
       }
     });
   }
-  
-  @Input() evilTitle = this.route;
+
+evilTitle = this.route;
 
   ngOnInit() {
   
