@@ -56,11 +56,12 @@ copyrightDate = this.d.getFullYear();
   private newMethod() {
     this.local = this.route;
     console.log("inside newMethod function the route is: " + this.local);
+    this.evilTitle = this.local;
   }
 
   ngOnInit() {
     // this.evilTitle = location.href;
-    this.evilTitle = this.local;
+    // this.evilTitle = this.local;
   }
 
   title = 'SoCalTelevision.com';
