@@ -26,6 +26,10 @@ import { Router, Route } from '@angular/router';
 ]
 })
 
+var d = new Date();
+
+
+
 export class AppComponent implements OnInit {
   route: string;
   currentPath: string;
@@ -44,6 +48,7 @@ export class AppComponent implements OnInit {
     });
   }
 
+copyrightDate = d.getFullYear();
 evilTitle = this.route;
 
   ngOnInit() {
@@ -52,8 +57,5 @@ evilTitle = this.route;
 
   title = 'SoCalTelevision.com';
 
-  // onSelect(){
-  //   this.router.navigate(['/', router.]);
-  // }
-
+  
 }
