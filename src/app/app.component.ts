@@ -33,6 +33,7 @@ import { Router, Route } from '@angular/router';
 export class AppComponent implements OnInit {
   route: string;
   d = new Date();
+  local: string;
 
 public evilTitle: string = "";
 
@@ -40,6 +41,9 @@ public evilTitle: string = "";
     router.events.subscribe(val => {
       if (location.path() != "") {
         this.route = location.path();
+
+        this.local = this.route;
+
         console.log("the route is: " + this.route); 
     
       } 
@@ -51,7 +55,7 @@ copyrightDate = this.d.getFullYear();
 
   ngOnInit() {
     // this.evilTitle = location.href;
-    this.evilTitle = this.route;
+    this.evilTitle = this.local;
   }
 
   title = 'SoCalTelevision.com';
