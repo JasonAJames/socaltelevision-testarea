@@ -42,7 +42,7 @@ public evilTitle: string = "";
       if (location.path() != "") {
         this.route = location.path();
 
-        this.newMethod();
+        // this.newMethod();
 
         console.log("the route is: " + this.route); 
     
@@ -53,7 +53,7 @@ public evilTitle: string = "";
 copyrightDate = this.d.getFullYear();
 
 
-  private newMethod() {
+  newMethod() {
     this.local = this.route;
     console.log("inside newMethod function the route is: " + this.local);
     this.evilTitle = this.local;
