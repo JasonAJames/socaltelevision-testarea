@@ -26,13 +26,14 @@ import { Router, Route } from '@angular/router';
 ]
 })
 
-var d = new Date();
+
 
 
 
 export class AppComponent implements OnInit {
   route: string;
   currentPath: string;
+  d = new Date();
 
   constructor(location: Location, router: Router) {
     router.events.subscribe(val => {
@@ -48,7 +49,7 @@ export class AppComponent implements OnInit {
     });
   }
 
-copyrightDate = d.getFullYear();
+copyrightDate = this.d.getFullYear();
 evilTitle = this.route;
 
   ngOnInit() {
