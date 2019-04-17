@@ -30,13 +30,13 @@ public FeedWorkingResponse: string = "";
   YesFeedWorks() {
     this.local = this.route;
     console.log("The feed at " + this.local + " is WORKING! YAH!!!");
-    this.FeedWorkingResponse = this.local;
+    this.FeedWorkingResponse = "Thank You for your continued Viewership and Support!";
   }
 
   FeedNotWorking() {
     this.local = this.route;
     console.log("The Feed at " + this.local + " has been reported not to work. PLEASE CHECK " + this.local );
-    this.FeedWorkingResponse = this.local;
+    this.FeedWorkingResponse = "Thank You for letting us know. We will get right on it. Please check back again soon! Thank you for watching!";
   }
 
   ngOnInit() {
