@@ -34,6 +34,7 @@ export class AppComponent implements OnInit {
   route: string;
   currentPath: string;
   d = new Date();
+  Loca = this.route;
 
   constructor(location: Location, router: Router) {
     router.events.subscribe(val => {
@@ -50,7 +51,7 @@ export class AppComponent implements OnInit {
   }
 
 copyrightDate = this.d.getFullYear();
-evilTitle = this.currentPath;
+evilTitle = this.Loca;
 
   ngOnInit() {
   
