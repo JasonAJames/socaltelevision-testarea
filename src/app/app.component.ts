@@ -34,6 +34,8 @@ export class AppComponent implements OnInit {
   route: string;
   d = new Date();
 
+public evilTitle: string = "";
+
   constructor(location: Location, router: Router) {
     router.events.subscribe(val => {
       if (location.path() != "") {
@@ -48,7 +50,7 @@ copyrightDate = this.d.getFullYear();
 
 
   ngOnInit() {
-  
+    this.evilTitle = this.route;
   }
 
   title = 'SoCalTelevision.com';
