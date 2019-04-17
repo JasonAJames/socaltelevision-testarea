@@ -32,22 +32,20 @@ import { Router, Route } from '@angular/router';
 
 export class AppComponent implements OnInit {
   route: string;
-  currentPath: string;
   d = new Date();
-  Loca: any;
 
   constructor(location: Location, router: Router) {
     router.events.subscribe(val => {
       if (location.path() != "") {
         this.route = location.path();
         console.log("the route is: " + this.route); 
-        this.Loca = this.route;      
+    
       } 
     });
   }
 
 copyrightDate = this.d.getFullYear();
-evilTitle = this.Loca;
+
 
   ngOnInit() {
   
