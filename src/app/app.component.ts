@@ -50,7 +50,7 @@ copyrightDate = this.d.getFullYear();
 
 
   ngOnInit() {
-    this.evilTitle = this.route;
+    this.evilTitle = location.pathname;
   }
 
   title = 'SoCalTelevision.com';
