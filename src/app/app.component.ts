@@ -28,19 +28,22 @@ import { Router } from '@angular/router';
 
 export class AppComponent implements OnInit {
   route: string;
+  currentPath: string;
 
   constructor(location: Location, router: Router) {
     router.events.subscribe(val => {
       if (location.path() != "") {
         this.route = location.path();
+        this.currentPath = this.route;
       } else {
         this.route = "Home";
+        this.currentPath = this.route;
       }
     });
   }
 
-  currentRoute = this.route;
-  
+  currentRoute = this.currentPath;
+
   ngOnInit() {}
 
   title = 'SoCalTelevision.com';
