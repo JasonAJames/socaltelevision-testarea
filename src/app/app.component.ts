@@ -50,7 +50,7 @@ export class AppComponent implements OnInit {
   }
 
 copyrightDate = this.d.getFullYear();
-evilTitle = this.route;
+evilTitle = this.currentPath;
 
   ngOnInit() {
   
