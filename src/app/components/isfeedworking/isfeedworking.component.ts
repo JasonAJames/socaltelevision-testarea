@@ -10,10 +10,9 @@ import { Router, Route } from '@angular/router';
 export class IsfeedworkingComponent implements OnInit {
 
   route: string;
-  d = new Date();
   local: string;
 
-public evilTitle: string = "";
+public FeedWorkingResponse: string = "";
 
   constructor(location: Location, router: Router) {
     router.events.subscribe(val => {
@@ -22,7 +21,7 @@ public evilTitle: string = "";
 
        // this.YesFeedWorks();
 
-        console.log("the route is: " + this.route); 
+       // console.log("the route is: " + this.route); 
     
       } 
     });
@@ -31,13 +30,13 @@ public evilTitle: string = "";
   YesFeedWorks() {
     this.local = this.route;
     console.log("The feed at " + this.local + " is WORKING! YAH!!!");
-    this.evilTitle = this.local;
+    this.FeedWorkingResponse = this.local;
   }
 
   FeedNotWorking() {
     this.local = this.route;
     console.log("The Feed at " + this.local + " has been reported not to work. PLEASE CHECK " + this.local );
-    this.evilTitle = this.local;
+    this.FeedWorkingResponse = this.local;
   }
 
   ngOnInit() {
