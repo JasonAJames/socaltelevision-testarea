@@ -1,7 +1,6 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { Location } from "@angular/common";
 import { Router, Route } from '@angular/router';
-import { FormGroup, FormBuilder, Validators } from '@angular/forms';
 
 @Component({
   selector: 'app-isfeedworking',
@@ -13,15 +12,10 @@ export class IsfeedworkingComponent implements OnInit {
   route: string;
   local: string;
 
-userForm: FormGroup;
-
-
-
-
 
 public FeedWorkingResponse: string = "";
 
-  constructor(private _formBuilder: FormBuilder, location: Location, router: Router) {
+  constructor(location: Location, router: Router) {
     router.events.subscribe(val => {
       if (location.path() != "") {
         this.route = location.path();
@@ -48,10 +42,7 @@ public FeedWorkingResponse: string = "";
 
 
   ngOnInit() {
-    this.userForm = this._formBuilder.group({
-     yes: ["The feed at " + this.local + " is WORKING! YAH!!!"],
-     no: ["The feed at" + this.local + " is NOT WORKING! BUMMER!!!"] 
-    })
+
   }
 
 }
