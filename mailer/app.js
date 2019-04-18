@@ -6,7 +6,7 @@ const nodemailer = require('nodemailer');
 
 const app = express();
 
-app.get('/',(req, res) => {
+app.get('/mailer',(req, res) => {
     res.send('Hello from ROOT mailer');
 });
 
