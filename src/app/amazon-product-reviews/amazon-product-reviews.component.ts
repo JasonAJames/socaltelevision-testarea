@@ -1,18 +1,25 @@
 import { Component, OnInit } from '@angular/core';
 
+
 @Component({
   selector: 'app-amazon-product-reviews',
   templateUrl: './amazon-product-reviews.component.html',
-  styleUrls: ['./amazon-product-reviews.component.css','../components/social-share-icons/social-share-icons.component.css']
+  styleUrls: ['./amazon-product-reviews.component.css','../components/social-share-icons/social-share-icons.component.css','.searchproduct {display: block}']
 })
 export class AmazonProductReviewsComponent implements OnInit {
 
+  isProductSearchEntered;
+
   constructor() { }
 
-  // getsearch(){
-  //   $("#results").removeClass("hidden");
+  unhideResults(){
+    
+  }
 
-  // }
+  getsearch(){
+    
+
+  }
 
   ngOnInit() {
     
