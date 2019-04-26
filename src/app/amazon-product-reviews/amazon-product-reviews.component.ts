@@ -9,10 +9,10 @@ export class AmazonProductReviewsComponent implements OnInit {
 
   constructor() { }
 
-  getsearch(){
-    $("#results").removeClass("hidden");
-    
-  }
+  // getsearch(){
+  //   $("#results").removeClass("hidden");
+
+  // }
 
   ngOnInit() {
     
