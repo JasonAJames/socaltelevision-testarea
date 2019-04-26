@@ -1,9 +1,11 @@
 <div class="container">
   <div class="row">
     <div class="col-sm-12"><h2>{{pagetitle}}</h2>
-      <form action="https://www.amazon.com/s?k={{searchterm}}&amp;camp=1789&amp;creative=9325&amp;linkCode=xm2&amp;linkId=d6631bb329c34559e7cf05005912de64&amp;tag=product-review-spec-20&amp;ref=as_li_qf_sp_sr_il_tl" method="GET">
-        <input [(ngModel)]="searchterm"><a href="https://www.amazon.com/s?k={{searchterm}}&camp=1789&creative=9325&linkCode=xm2&linkId=d6631bb329c34559e7cf05005912de64&tag=product-review-spec-20&ref=as_li_qf_sp_sr_il_tl" name="searchterm" target="_blank" type="submit" class="btn btn-primary">SEARCH</a>
-      </form>
+
+        <input [(ngModel)]="searchterm"><button name="searchterm" target="_blank" id="submit" class="btn btn-primary" (click)="getsearch()">SEARCH</button>
+      <div id="results" class="hidden">
+        <iframe src="https://www.amazon.com/s?k={{searchterm}}&camp=1789&creative=9325&linkCode=xm2&linkId=d6631bb329c34559e7cf05005912de64&tag=product-review-spec-20&ref=as_li_qf_sp_sr_il_tl" height="600px"></iframe>
+      </div>
     </div>
     <div class="col-sm-12"><h3><a routerLink="/amazon-product-reviews/electronics-home-accessories">{{subtitle0}} > ></a></h3></div>
   </div>

@@ -9,7 +9,13 @@ export class AmazonProductReviewsComponent implements OnInit {
 
   constructor() { }
 
+  getsearch(){
+    $("#results").removeClass("hidden");
+    
+  }
+
   ngOnInit() {
+    
   }
 
   pagetitle = "Amazon Products"
