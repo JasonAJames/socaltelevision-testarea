@@ -13,7 +13,7 @@ export class AmazonProductReviewsComponent implements OnInit {
   constructor() { }
 
   unhideResults(){
-    
+    this.isProductSearchEntered = true;
   }
 
   getsearch(){
