@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-amazon-product-reviews',
   templateUrl: './amazon-product-reviews.component.html',
-  styleUrls: ['./amazon-product-reviews.component.css','../components/social-share-icons/social-share-icons.component.css','.searchproduct {display: block}']
+  styleUrls: ['./amazon-product-reviews.component.css','../components/social-share-icons/social-share-icons.component.css']
 })
 export class AmazonProductReviewsComponent implements OnInit {
 
