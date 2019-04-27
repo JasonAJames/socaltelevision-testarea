@@ -25,7 +25,7 @@ export class AmazonProductReviewsComponent implements OnInit {
     
   }
 
-  pagetitle = "Search Amazon Products"
+  pagetitle = "Featured Amazon Products"
   subtitle0 = "Electronics & Home Accessories"
   subtitle1 = "Computers, Tablets & Peripherals"
   subtitle2 = "Cameras & Photography Equipment"
